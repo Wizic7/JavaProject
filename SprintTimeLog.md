@@ -26,12 +26,13 @@ The expected minimum amount of time each Sprint for each category is as follows:
 
 |Date      |Start Time|Category|Description                                 |Total Minutes|
 |----------|----------|:------:|--------------------------------------------|:-----------:|
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
+|  1/14/25 |  12:45   |  MTG   |                                            |     90      |
+|  1/16/25 |  12:45   |  MTG   |                                            |     90      |
+|  1/21/25 |  12:30   |  TP    |                                            |     30      |
+|  1/21/25 |   1:00   |  MTG   |                                            |     90      |
+|  1/23/25 |  12:30   |  TP    |                                            |     15      |
+|  1/23/25 |  12:45   |  IM    |                                            |     90      |
+|  1/25/25 |   3:00   |  IM    |                                            |     300     |
 
 _Note: Add more rows as needed._
 
@@ -39,7 +40,7 @@ _Note: Add more rows as needed._
 
 |Categroy                       |Total Time (Hours:Minutes)|
 |-------------------------------|:------------------------:|
-|IM - Individual Module         |                          |
-|TP - Team Project              |                          |
-|MTG - Class Meetings           |                          |
-|**TOTAL**                      |                          |
+|IM - Individual Module         |            5:30          |
+|TP - Team Project              |            0:45          |
+|MTG - Class Meetings           |            4:30          |
+|**TOTAL**                      |            9:45          |
